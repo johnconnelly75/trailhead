@@ -13,6 +13,7 @@
                                  checked="{!v.item.Packed__c}" />
              </p> 
 
-            
+             
+             <lightning:button label="Packed!" onclick="{!c.packItem}" disabled="{!(v.item.Packed__c) ? true : false}" />
 
 </aura:component>	

@@ -5,7 +5,7 @@
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555700790000,
+            "modifiedTime": 1555715520000,
             "changeTime": 3373865674955,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
@@ -20,7 +20,7 @@
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555700790000,
+            "modifiedTime": 1555715520000,
             "changeTime": 3373865674955,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -35,7 +35,7 @@
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555700790000,
+            "modifiedTime": 1555715520000,
             "changeTime": 3373865674955,
             "contentHash": "a99b08e3d2d6efd88c4b56f5f01b594674d06db0",
             "isMetadataFile": false,
@@ -45,15 +45,15 @@
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1555700790000,
+            "modifiedTime": 1555715520000,
             "changeTime": 3373865674955,
-            "isWorkspace": false,
-            "contentHash": "a8661e32864c3a3fdeef2cdae850e4f005fc6ce6"
+            "contentHash": "cc1224625411da2afc9404d0caf1b13604bc0aca",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -77,7 +77,7 @@
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555700790000,
+            "modifiedTime": 1555715520000,
             "changeTime": 3373865674955,
             "contentHash": "2d22af15a724a49dbd77a401c55b0c1489761322",
             "isMetadataFile": false,
@@ -377,7 +377,7 @@
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\harnessApp",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555700644000,
+            "modifiedTime": 1555715287000,
             "changeTime": 3373865674955,
             "contentHash": "7ad27d73581aa9ac0e78790996566f6b440e7b20",
             "isMetadataFile": false,
@@ -400,14 +400,14 @@
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\harnessApp\\harnessApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1555700644000,
+            "size": 83,
+            "modifiedTime": 1555715287000,
             "changeTime": 3373865674955,
-            "contentHash": "6899e70c4ecf56d962ab7780cf8a5021560f8a5d"
+            "contentHash": "f2e62c2495249db73333e7f7adce43c4a803269b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1011,261 +1011,521 @@
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555700790000,
             "changeTime": 3373865674955,
-            "contentHash": "7148dbccc4a1f86f900e3febddd9f64327027f45"
+            "contentHash": "7148dbccc4a1f86f900e3febddd9f64327027f45",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1555700223000,
             "changeTime": 3373865674955,
-            "contentHash": "0f5ddf2be267f34f4697230a80cdfaecef7541b0"
+            "contentHash": "0f5ddf2be267f34f4697230a80cdfaecef7541b0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 770,
             "modifiedTime": 1555700790000,
             "changeTime": 3373865674955,
-            "contentHash": "393eeae4c1db357f6b9540fb0c5ea469f7ff4bf9"
+            "contentHash": "393eeae4c1db357f6b9540fb0c5ea469f7ff4bf9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "f333fb0ec05216e597e7321a755d17207eb8c36e"
+            "contentHash": "f333fb0ec05216e597e7321a755d17207eb8c36e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.design",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItem.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenseItem\\expenseItemRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1555700596000,
             "changeTime": 3373865674955,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 127,
             "modifiedTime": 1555700223000,
             "changeTime": 3373865674955,
-            "contentHash": "a3a7b01ddd5619f4d16b3ebd3df009571f30f174"
+            "contentHash": "a3a7b01ddd5619f4d16b3ebd3df009571f30f174",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 244,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "d5113281fdff28f8aa134e6ffd816d4304313a9a"
+            "contentHash": "d5113281fdff28f8aa134e6ffd816d4304313a9a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.css",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.design",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessage.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\helloMessage\\helloMessageRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1555699902000,
             "changeTime": 3373865674955,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555704520000,
+            "changeTime": 3373865674955,
+            "contentHash": "055ed73443ba6d52eecadaa7a54e4d2f5a521faa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.auradoc",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1555700902000,
+            "changeTime": 3373865674955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp",
+            "isDirectory": false,
+            "size": 789,
+            "modifiedTime": 1555704334000,
+            "changeTime": 3373865674955,
+            "contentHash": "a5d8b72e703806e06c4e60313a01610a806eec03",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1555700902000,
+            "changeTime": 3373865674955,
+            "contentHash": "9838d3657fbbb67ebc50450325c31978b0ba6423",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.css",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1555700902000,
+            "changeTime": 3373865674955,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.design",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1555700902000,
+            "changeTime": 3373865674955,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.svg",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1555700902000,
+            "changeTime": 3373865674955,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemController.js",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1555704520000,
+            "changeTime": 3373865674955,
+            "contentHash": "ca56005a736af2e2d8bc9c67c77f354371235edf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1555700902000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\campingListItem\\campingListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1555700902000,
+            "changeTime": 3373865674955,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555715520000,
+            "changeTime": 3373865674955,
+            "contentHash": "b0bcd899e43d9478f80be64b8c119e5cbb4cb563",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.auradoc",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3086,
+            "modifiedTime": 1555715520000,
+            "changeTime": 3373865674955,
+            "contentHash": "4b221aba43d0a8db86ea4ce004cfa6a0d8c978a6"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "15f7c76b094da28aecadc73afc1e6862500131c6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.css",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.design",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.svg",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expenses.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expensesController.js",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expensesController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expensesHelper.js",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expensesHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expensesRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\jc2828\\Box\\peregrine\\trailhead\\aura_components_basics\\force-app\\main\\default\\aura\\expenses\\expensesRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1555715268000,
+            "changeTime": 3373865674955,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
