@@ -15,12 +15,5 @@
     <members>Expense__c.Date__c</members>
     <members>Expense__c.Reimbursed__c</members>
   </types>
-  <types>
-    <name>Profile</name>
-    <members>Admin</members>
-    <members>Custom%3A Marketing Profile</members>
-    <members>Custom%3A Sales Profile</members>
-    <members>Custom%3A Support Profile</members>
-  </types>
   <version>45.0</version>
 </Package>
