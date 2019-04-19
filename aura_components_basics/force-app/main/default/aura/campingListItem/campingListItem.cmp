@@ -1,6 +1,6 @@
 <aura:component>
 
-        <aura:attribute name="item" type="Camping_Item__c" required=true/>
+        <aura:attribute name="item" type="Camping_Item__c" required="true"/>
 
         <p>{!v.item.Name}</p>
         
