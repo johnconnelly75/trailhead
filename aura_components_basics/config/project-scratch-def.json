@@ -1,6 +1,7 @@
 {
-  "orgName": "Demo Company",
+  "orgName": "John C",
   "edition": "Developer",
+  "adminEmail": "jc2828@georgetown.edu",
   "features": [],
   "settings": {
     "orgPreferenceSettings": {
@@ -8,3 +9,4 @@
     }
   }
 }
+
