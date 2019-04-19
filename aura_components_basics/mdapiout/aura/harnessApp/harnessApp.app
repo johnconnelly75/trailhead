@@ -1,6 +1,6 @@
 <aura:application>
 
-    <c:expenseItem/>
+    <c:camping/>
 
 </aura:application>	
 
