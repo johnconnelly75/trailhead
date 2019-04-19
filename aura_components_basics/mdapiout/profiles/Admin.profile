@@ -278,10 +278,7 @@
         <enabled>true</enabled>
         <name>ExportReport</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>FieldServiceAccess</name>
-    </userPermissions>
+
     <userPermissions>
         <enabled>true</enabled>
         <name>GiveRecognitionBadge</name>
