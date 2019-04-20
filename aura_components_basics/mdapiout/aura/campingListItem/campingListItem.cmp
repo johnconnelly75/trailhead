@@ -1,19 +1,30 @@
+
+
 <aura:component>
+    
+    
+    <aura:attribute name="item" type="Camping_Item__c"/>
 
-        <aura:attribute name="item" type="Camping_Item__c" required="true"/>
-
-        <p>{!v.item.Name}</p>
+    <lightning:card title="{!v.item.Name}" iconName="standard:scan_card"
+                    class="{!v.item.Packed__c ?
+                           'slds-theme--success' : ''}">
         
-        <p><lightning:formattedNumber value="{!v.item.Price__c}" style="currency"/></p>
-        <p><lightning:formattedNumber value="{!v.item.Quantity__c}" style="number"/></p>
+        <p class="slds-text-heading--medium slds-p-horizontal--small">
+           Price: <lightning:formattedNumber value="{!v.item.Price__c}" style="currency"/></p>
+           <p class="slds-text-heading--medium slds-p-horizontal--small">
+
+           Quantity: <lightning:formattedNumber value="{!v.item.Quantity__c}" /></p>
+        
+
         <p>
-                <lightning:input type="toggle"                            
-                                 label="Packed?"                           
-                                 name="packed"                         
-                                 checked="{!v.item.Packed__c}" />
-             </p> 
-
-             
-             <lightning:button label="Packed!" onclick="{!c.packItem}" disabled="{!(v.item.Packed__c) ? true : false}" />
-
-</aura:component>	
+            <lightning:input type="toggle" 
+                             label="Packed?"
+                             name="packed"
+                             class="slds-p-around--small"
+                             checked="{!v.item.Packed__c}"
+                             messageToggleActive="Yes"
+                             messageToggleInactive="No"
+                             onchange="{!c.clickPacked}"/>
+        </p>
+    </lightning:card>
+</aura:component>
